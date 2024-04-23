@@ -1,5 +1,5 @@
-<H3>NAME:  Bairav Skandan Loha </H3>
-<H3>REGISTER NO: 212221230010 </H3>
+<H3>NAME:  VETRIVEL </H3>
+<H3>REGISTER NO: 212221240060 </H3>
 <H3>EXPERIMENT NO: 3 </H3>
 <H3>DATE: 27/2/2024 </H3>
 <H1 ALIGN =CENTER> Implementation of Approximate Inference in Bayesian Networks
